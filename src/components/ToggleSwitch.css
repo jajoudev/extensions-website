@@ -2,8 +2,9 @@
 .toggle-switch {
     position: relative;
     display: inline-block;
-    width: 50px;
+    width: 70px;
     height: 25px;
+    
   }
   .toggle-switch input[type="checkbox"] {
     display: none;
